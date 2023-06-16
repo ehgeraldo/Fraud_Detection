@@ -56,22 +56,22 @@ https://www.kaggle.com/ntnu-testimon/paysim1)
 # PROJECT CYCLE
 ![Project_Cicles](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/d0cb6f7b-894a-4cb6-9c2f-6138787d0bb5)
 
-# Step 01. Imports
+## Step 01. Imports
 Import required libraries and functions.
 
-#Step 02. Data Extraction:
+## Step 02. Data Extraction:
 For the available data, check files and data fields description. Then load data from CSV file and make a quick inspection (does it requires big data tools?).
 
-# Step 03. Data Description:
+## Step 03. Data Description:
 Initialize Spark. Rename columns and check the number of rows in the table. Check missing values and convert data types. Then use statistics metrics to identify data outside the scope of business.
 
-# Step 04. Feature Engineering:
+## Step 04. Feature Engineering:
 Create a hypothesis list to check on the Exploratory Data Analysis section. Then create relevant variables for the project.
 
-# Step 05. Data Filtering:
+## Step 05. Data Filtering:
 Filter rows and select columns that do not contain relevant information for modelling or do not match the scope of the business.
 
-# Step 06. Exploratory Data Analysis:
+## Step 06. Exploratory Data Analysis:
 Analyse each variable alone and then the relationship among variables. Then, test business hypotheses.
 
 
