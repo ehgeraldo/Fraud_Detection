@@ -2,26 +2,28 @@
 
 # BUSINESS UNDERSTANDING
 ## What is the company?
-### Analysis Fraud Company
+#### Analysis Fraud Company
+
 #### What is its business model?
+Analysis Fraud Company is a company specialized in the detection of fraud in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
 
-Blocker Fraud Company is a company specialized in the detection of fraud in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
-What is the business problem the company is facing?
+## What is the business problem the company is facing?
 
-Blocker Fraud Company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
+#### Blocker Fraud Company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
 
-    The company will receive 25% of each transaction value that was correctly detected as fraud.
+    * The company will receive 25% of each transaction value that was correctly detected as fraud.
 
-    The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate.
+    * The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate.
 
-    The company will return 100% of each transaction value that was detected as legitimate despite being a fraud.
+    * The company will return 100% of each transaction value that was detected as legitimate despite being a fraud.
 
 In other words, the company takes the risk of failing to detect fraud and earns money when correctly detecting fraud.
 
 For the client, it is an excellent deal to hire Blocker Fraud Company. Although the fee charged is very high when fraud is correctly detected (25%), the hiring company reduces its costs of detecting fraudulent transactions and errors in the anti-fraud service are under the hired company responsibility.
 
 For the Blocker Fraud company, it will attract many customers with the guaranteed return in the event of a failure to detect customer fraud. Besides, Blocker Fraud only depends on the precision and accuracy of its model: the more accurate the prediction, the higher the company's revenue. However, in the case of low accuracy, the company could have a high loss.
-PROBLEM UNDERSTANDING
+
+# PROBLEM UNDERSTANDING
 What is the business solution that this project has to deliver?
 
 As a data science consultant, you have to create a highly precise and accurate model for detecting fraud in mobile transactions.
