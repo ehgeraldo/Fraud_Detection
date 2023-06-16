@@ -2,7 +2,7 @@
 
 # BUSINESS UNDERSTANDING
 ## What is the company?
-### Blocker Fraud Company
+### Analysis Fraud Company
 #### What is its business model?
 
 Blocker Fraud Company is a company specialized in the detection of fraud in financial transactions made through mobile devices. The company has a service called "Blocker Fraud" which guarantees the blocking of fraudulent transactions.
