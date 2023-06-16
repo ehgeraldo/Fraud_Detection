@@ -12,7 +12,7 @@ Analysis Fraud Company is a company specialized in the detection of fraud in fin
 
 #### Blocker Fraud Company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
 
-    * The company will receive 25% of each transaction value that was correctly detected as fraud.
+    - The company will receive 25% of each transaction value that was correctly detected as fraud.
 
     * The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate.
 
