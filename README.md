@@ -42,8 +42,8 @@ In addition, you will need to submit a report with the model's performance and r
 https://sejaumdatascientist.com/crie-uma-solucao-para-fraudes-em-transacoes-financeiras-usando-machine-learning/
 
 https://www.kaggle.com/ntnu-testimon/paysim1)
+![Feature_Description](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/1acaefbb-f5f1-4f32-ae56-e9a48f032205)
 
-![Feature_Description](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/3503684d-e8ca-4394-8cce-cee9f06bb7b8)
 
 
 # BUSINESS ASSUMPTIONS
