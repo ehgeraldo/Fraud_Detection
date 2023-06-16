@@ -44,9 +44,18 @@ https://www.kaggle.com/ntnu-testimon/paysim1)
 ![Feature_Description](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/3503684d-e8ca-4394-8cce-cee9f06bb7b8)
 
 
-
 # BUSINESS ASSUMPTIONS
 
 -> The currency of all transactions is in the Brazilian real (assumption needed for revenue, loss and profit estimations).
 
 -> Revenue, loss and profit estimations were based on the difference between the origin balance before and after the transaction, that is, new_balance_orig - old_balance_orig.
+
+# SOLUTION STRATEGY
+![IOT_Method_Solution](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/a15371e3-0e2b-4a0b-a919-7dee35a7b974)
+
+# PROJECT CYCLE
+![Project_Cicles](https://github.com/ehgeraldo/Fraud_Detection/assets/58346288/d0cb6f7b-894a-4cb6-9c2f-6138787d0bb5)
+
+
+
+
