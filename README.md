@@ -39,8 +39,7 @@ In addition, you will need to submit a report with the model's performance and r
     * What is the expected profit for the Blocker Fraud Company if it uses the model for all mobile transactions?
 
 ## References:
-[Source data set: 
-(https://sejaumdatascientist.com/crie-uma-solucao-para-fraudes-em-transacoes-financeiras-usando-machine-learning/
+https://sejaumdatascientist.com/crie-uma-solucao-para-fraudes-em-transacoes-financeiras-usando-machine-learning/
 
 https://www.kaggle.com/ntnu-testimon/paysim1)
 
