@@ -12,7 +12,7 @@ Analysis Fraud Company is a company specialized in the detection of fraud in fin
 
 #### Blocker Fraud Company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows:
 
-    *The company will receive 25% of each transaction value that was correctly detected as fraud.
+    * The company will receive 25% of each transaction value that was correctly detected as fraud.
 
     * The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate.
 
@@ -33,10 +33,10 @@ At the end of your consultancy, you need to provide the CEO of Blocker Fraud Com
 
 In addition, you will need to submit a report with the model's performance and results about the profit and loss that the company will make using the model you created. Your report should contain the answers to the following questions:
 
-    What is the precision and accuracy of the model?
-    What is the expected revenue for the cases where the model succeed in detecting fraud?
-    What is the expected loss by the company for the cases where the model fails to detect fraud?
-    What is the expected profit for the Blocker Fraud Company if it uses the model for all mobile transactions?
+    * What is the precision and accuracy of the model?
+    * What is the expected revenue for the cases where the model succeed in detecting fraud?
+    * What is the expected loss by the company for the cases where the model fails to detect fraud?
+    * What is the expected profit for the Blocker Fraud Company if it uses the model for all mobile transactions?
 
 ## References:
 [Source data set: https://www.kaggle.com/ntnu-testimon/paysim1](https://sejaumdatascientist.com/crie-uma-solucao-para-fraudes-em-transacoes-financeiras-usando-machine-learning/
